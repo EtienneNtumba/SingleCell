@@ -62,7 +62,7 @@ A Nextflow-based pipeline for robust single-cell RNA-seq analysis, including rig
 bash
 Copy
 
-git clone https://github.com/yourusername/scrnaseq-pipeline
+git [clone https://github.com/EtienneNtumba/SingleCell.git](https://github.com/EtienneNtumba/SingleCell.git)
 cd scrnaseq-pipeline
 
 Pipeline Steps
