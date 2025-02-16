@@ -30,3 +30,9 @@ Single-cell RNA sequencing (scRNA-seq) has revolutionized our ability to study c
 [Optional: Add institutional logos or quotes from beta testers]  
 
 ---
+
+### 2. Build Singularity Containers (Advanced Tools)
+```bash
+# Build SCENIC container
+singularity build scenic.sif docker://aertslab/pyscenic:0.12.1
+```
