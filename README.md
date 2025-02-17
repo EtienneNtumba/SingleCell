@@ -26,8 +26,6 @@ Single-cell RNA sequencing (scRNA-seq) has revolutionized our ability to study c
 - Bioinformaticians seeking reproducibility in collaborative projects  
 - Core facilities needing standardized workflows  
 
-**Trusted By**:  
-[Optional: Add institutional logos or quotes from beta testers]  
 
 ---
 
