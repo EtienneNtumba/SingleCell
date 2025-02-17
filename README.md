@@ -187,7 +187,11 @@ wget https://resources.aertslab.org/cistarget/databases/homo_sapiens/hg38/refseq
 5. **Spatial Mapping**: Integrates scRNA-seq with Visium/ST data
 6. **GPU Optimization**: Configurable for NVIDIA GPUs
 
-*This represents a cutting-edge pipeline used in recent atlas-level studies (e.g., Human Cell Atlas 2.0). Adjust parameters for species (hg38/mm10) and technology (10x v3/v4).*
+## Author
+
+**Etienne Ntumba Kabongo**  
+📧 Email: [etienne.ntumba.kabongo@umontreal.ca](mailto:etienne.ntumba.kabongo@umontreal.ca)  
+🔗 GitHub: [EtienneNtumba](https://github.com/EtienneNtumba)
 
 
 
